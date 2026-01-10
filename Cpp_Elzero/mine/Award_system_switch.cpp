@@ -11,7 +11,7 @@ int main()
      case 100:
      case 150:
      case 200:
-     case 300$env:GIT_AUTHOR_DATE='2026-01-10T12:00:00'; $env:GIT_COMMITTER_DATE='2026-01-10T12:00:00'; git add .; git commit -m "feat: initial C++ logic problems":
+     case 300:
           cout << " congrats for the laptop\n";
           break;
 

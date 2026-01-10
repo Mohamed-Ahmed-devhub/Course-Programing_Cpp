@@ -16,7 +16,7 @@ void calc(vector<int> numsVector)
 
 int main()
 {
-    int nums[4] = {10, 20, 30};
+    int nums[4] = {10, 40, 30};
     cout << nums[2] << "\n";
     nums[3] = 100;
     cout << nums[3] << "\n";
