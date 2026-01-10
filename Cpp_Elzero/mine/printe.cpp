@@ -16,7 +16,5 @@ int main()
     cout << firstname + lastname << "\n";
       cout << firstname.append( lastname ) << "\n";
 
-    cout << "\n================================\n";
-
 return 0;
   }
