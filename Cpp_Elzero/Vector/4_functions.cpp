@@ -8,7 +8,7 @@ int main()
     cout << nums.max_size() << "\n";
     nums.push_back(50);
     nums.push_back(80);
-    nums.push_back(140);
+    nums.push_back(130);
     nums.push_back(90);
     cout << nums.capacity() << "\n";
     
