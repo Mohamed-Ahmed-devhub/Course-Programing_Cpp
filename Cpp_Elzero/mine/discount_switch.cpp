@@ -11,7 +11,7 @@ int main()
   switch (years)
   {
   case 1:
-    discount = 20;
+    discount = 70;
     break;
 
   case 2:

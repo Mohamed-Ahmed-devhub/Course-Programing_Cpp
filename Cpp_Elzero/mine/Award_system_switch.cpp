@@ -19,13 +19,6 @@ int main()
      case 350:
           cout << " congrats for the iphone 13 pro max\n";
           break;
-
-     case 400:
-     case 450:
-     case 500:
-          cout << " congrats for the iphone 17 pro max\n";
-          break;
-
      default:
           cout << " congrats for the banana\n";
 
