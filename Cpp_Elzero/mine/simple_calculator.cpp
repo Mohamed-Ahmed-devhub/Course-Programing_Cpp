@@ -10,10 +10,8 @@ int main()
     cin >> n2;
     cout << " cohosh operation number\n ";
 
-    // cout << " [1] +\n ";
-    // cout << " [2] -\n ";
-    // cout << " [3] /\n ";
-    // cout << " [4] *\n ";
+    
+
     cin >> op;
 
 if( op==1 )

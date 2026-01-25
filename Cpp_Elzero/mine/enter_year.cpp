@@ -10,7 +10,7 @@ int main()
 
     switch (year)
     {
-    case 1982:
+    case 1981:
         cout << "My Birth Day\n";
         break;
 
