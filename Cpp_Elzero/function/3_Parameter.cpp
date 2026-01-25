@@ -10,7 +10,7 @@ void details(string msg = "Welcome", string name = "Unknown")
 int main()
 {
     details("Hello", "Ahmed");
-    details("Hi");
+    details("Hi AHMED");
     details();
     return 0;
 }
