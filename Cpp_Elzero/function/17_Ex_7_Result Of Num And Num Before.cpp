@@ -15,7 +15,7 @@ int beforeresult(int number, int count)
 int main()
 {
     cout << beforeresult(20, 7) << "\n"; 
-    cout << beforeresult(15, 3) << "\n"; 
+    cout << beforeresult(15, 4) << "\n"; 
     return 0;
 }
 // #include <iostream>
