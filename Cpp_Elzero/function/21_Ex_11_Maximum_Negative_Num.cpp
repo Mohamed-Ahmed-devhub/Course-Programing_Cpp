@@ -16,7 +16,7 @@ int firstnegalive( int numbers[], int numsiz )
 
 int main()
 {
-    int numbers[] = {-10, -20, 15, 100, 10, 5, -50, 0, -5, -10}; 
+    int numbers[] = {-15, -20, 15, 100, 10, 5, -50, 0, -5, -10}; 
     int numsize =sizeof(numbers)/sizeof(numbers[0]);
     cout << firstnegalive(numbers, numsize) << "\n";
     return 0;

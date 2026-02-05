@@ -22,7 +22,7 @@ int plusandmultiply( int numbers[], int siz)
 
 int main()
 {
-    int numbers[] = {10, 20, 3, 30, 5, 7, 40};
+    int numbers[] = {9, 20, 3, 30, 5, 7, 40};
     int numsiz =sizeof( numbers)/sizeof(numbers[0]);
     cout << plusandmultiply(numbers, numsiz) << "\n";
     // Even Numbers -> 10 + 20 + 30 + 40 = 100
