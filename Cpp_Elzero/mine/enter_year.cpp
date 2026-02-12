@@ -18,7 +18,7 @@ int main()
         cout << "My First Work\n";
         break;
 
-    case 1995:
+    case 1990:
         cout << "Windows 95\n";
         break;
 
