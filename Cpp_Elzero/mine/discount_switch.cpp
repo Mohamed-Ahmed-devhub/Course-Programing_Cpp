@@ -19,7 +19,7 @@ int main()
     break;
 
   case 3:
-    discount = 100;
+    discount = 120;
     break;
   }
   cout << " the price is => " << price - discount << "\n";
