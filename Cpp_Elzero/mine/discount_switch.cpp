@@ -15,7 +15,7 @@ int main()
     break;
 
   case 2:
-    discount = 40;
+    discount = 60;
     break;
 
   case 3:
