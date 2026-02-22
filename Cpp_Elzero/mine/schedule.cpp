@@ -28,10 +28,6 @@ int main()
     case 6:
         cout << " Open from 8:00 to 18:00\n ";
         break;
-    case 7:
-        cout << " Open from 11:00 to 14:00\n ";
-        break;
-
     default:
         cout << "closed";
     }
