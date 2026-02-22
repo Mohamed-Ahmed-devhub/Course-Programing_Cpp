@@ -13,7 +13,7 @@ int main()
     {
         cout << "good";
     }
-    else if (points > 1000)
+    else if (points > 1100)
     {
         cout << "vere good";
     }
