@@ -20,6 +20,6 @@ int main()
       min = x;
     }
   }
-  cout << "THE MAX : " << max << "&&" << "THE MIN : " << min << "\n";
+  cout << "THE MAX : " << max << "  &&  " << "THE MIN : " << min << "\n";
   return 0;
 }
