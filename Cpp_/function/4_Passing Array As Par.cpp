@@ -15,7 +15,7 @@ void calc(int nums[], int count)
     {
         result += nums[i];
     }
-    cout << "Result Is: " << result << "\n";
+    ::std::cout << "Result Is: " << result << "\n";
 }
 
 int main()
