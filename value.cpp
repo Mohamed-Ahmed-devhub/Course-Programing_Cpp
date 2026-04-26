@@ -28,7 +28,7 @@ int main()
 {
   int s1, s2, s3, s4, s5;
   cout << "Enter 5 scores: ";
-  cin >> s1  >>s2 >> s3 >> s4 >> s5;
+  cin >> s1 >>s2 >> s3 >> s4 >> s5 ;
   cout <<"Grade 1: "<< courseGrad(s1) << endl;
   cout <<"Grade 2: "<< courseGrad(s2) << endl;
   cout <<"Grade 3: "<< courseGrad(s3) << endl;
